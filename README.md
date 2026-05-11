@@ -23,6 +23,7 @@ The Event Reminder System is a web-based application designed to help users orga
 
 ## Project Structure
 
+```
 event-reminder-system/
 │
 ├── index.html
@@ -32,6 +33,7 @@ event-reminder-system/
 ├── README.md
 │
 └── screenshots/
+```
 
 ## Installation
 
